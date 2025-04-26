@@ -4,16 +4,16 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder str = new StringBuilder();
-        int i=0,j=0;
-        while(i<word1.length() && j<word2.length()){
-            str.append(word1.charAt(i++));
-            str.append(word2.charAt(j++));
+        int min = Math.min(word1.length(),word2.length());
+        for(int i=0;i<min;i++){
+            str.append(word1.charAt(i));
+            str.append(word2.charAt(i));
         }
-        while(i<word1.length()){
-            str.append(word1.charAt(i++));
+        if(word1.length()>word2.length()){
+            str.append(word1.substring(min));
         }
-        while(j<word2.length()){
-            str.append(word2.charAt(j++));
+        else{
+            str.append(word2.substring(min));
         }
         return str.toString();
     }
