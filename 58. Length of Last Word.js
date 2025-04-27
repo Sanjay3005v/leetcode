@@ -6,7 +6,19 @@
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    let words =s.trim().split(" ");
-    let word = words[words.length-1];
-    return word.length;
+    let length = 0;
+    let i = s.length-1;
+    while(s.charAt(i)==' '){
+            i--;
+        }
+    while(i>=0){
+        if(s.charAt(i)!=' '){
+            i--;
+            length++;
+        }
+        else{
+            break;
+        }
+    }
+    return length;
 };
