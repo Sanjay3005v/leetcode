@@ -3,8 +3,20 @@
 
 class Solution {
     public int lengthOfLastWord(String s) {
-        String[] words =s.split(" ");
-        String word = words[words.length-1];
-        return word.length();
+        int length = 0;
+        int i = s.length()-1;
+        while(s.charAt(i)==' '){
+                i--;
+            }
+        while(i>=0){
+            if(s.charAt(i)!=' '){
+                i--;
+                length++;
+            }
+            else{
+                break;
+            }
+        }
+        return length;
     }
 }
