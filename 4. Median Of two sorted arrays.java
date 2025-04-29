@@ -1,27 +1,32 @@
 //4. Median Of two sorted arrays
-import java.util.*;
+
+
+
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] a=new int[nums1.length+nums2.length];
-        int k=0;
-        for(int i:nums1){
-            a[k]=i;
-            k++;
+        int i=nums1.length-1;
+        int j=nums2.length-1;
+        int[] nums = new int[nums1.length+nums2.length];
+        int k=nums.length-1;
+        while(i>=0 && j>=0){
+            if(nums1[i]>nums2[j]){
+                nums[k--]=nums1[i--];
+            }
+            else{
+                nums[k--]=nums2[j--];
+            }
         }
-        for(int j:nums2){
-            a[k]=j;
-            k++;
+        while(j>=0){
+            nums[k--]=nums2[j--];
         }
-        Arrays.sort(a);
-        if(a.length%2!=0){
-            double x=a[a.length/2];
-            return x;
+        while(i>=0){
+            nums[k--]=nums1[i--];
+        }
+        if(nums.length%2==1){
+            return (double)nums[nums.length/2];
         }
         else{
-            double x1=a[a.length/2];
-            double x2=a[(a.length/2)-1];
-            double x=(x1+x2)/2;
-            return x;
+            return (nums[nums.length/2]+nums[(nums.length/2)-1])/2.0;
         }
     }
 }
