@@ -6,15 +6,9 @@ class Solution {
         int rev = 0;
         int temp=num;
 		while(num>0) {
-			int r = num%10;
-			num/=10;
-			rev=(rev*10)+r;
+			rev=(rev*10)+num%10;
+            num/=10;
 		}
-		if(rev==temp) {
-			return true;
-		}
-		else {
-			return false;
-		}
+		return rev == temp;
     }
 }
