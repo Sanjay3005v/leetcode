@@ -3,17 +3,14 @@
 
 class Solution {
     public int numRabbits(int[] answers) {
-        Map<Integer,Integer>  map = new HashMap<>();
-        for(int num : answers){
-            map.put(num,map.getOrDefault(num,0)+1);
+        int sol=0;
+        int[] count = new int[1000];
+        for(int num:answers){
+            if(count[num]%(num+1)==0){
+                sol+=num+1;
+            }
+            count[num]++;
         }
-        int tot=0;
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            int key = entry.getKey();
-            int count = entry.getValue();
-            int same = (count+key)/(key+1);
-            tot+= same*(key+1);
-        }
-        return tot;
+        return sol;
     }
 }
