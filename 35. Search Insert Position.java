@@ -3,22 +3,20 @@
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int x=0;
-        if(nums[nums.length-1]<target){
-            return nums.length;
-        }
-        if(nums[0]>target){
-            return 0;
-        }
-        for(int i=0;i<nums.length;i++){
-            while(nums[i]<=target){
-               if(nums[i]==target){
-                    x=i;
-                    break;
-               }
-               x=++i;
+        int left=0;
+        int right = nums.length-1;
+        while(left<=right){
+            int mid = (left+right)/2;
+            if(target<nums[mid]){
+                right=mid-1;
+            }
+            else if(target>nums[mid]){
+                left=mid+1;
+            }
+            else{
+                return mid;
             }
         }
-        return x;
+        return left;
     }
 }
