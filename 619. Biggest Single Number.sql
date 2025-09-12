@@ -1,6 +1,6 @@
-//619. Biggest Single Number
+--619. Biggest Single Number
 
-# Write your MySQL query statement below
+--Write your MySQL query statement below
 SELECT MAX(num) AS num
 FROM  (SELECT num 
 FROM MyNumbers 
