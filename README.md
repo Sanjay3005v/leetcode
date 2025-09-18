@@ -390,6 +390,7 @@ This repository serves as a personal reference for:
 | 2723. Add Two Promises | Easy | [Link](https://leetcode.com/problems/add-two-promises/) |
 | 3000. Maximum Area of Longest Diagonal Rectangle | Easy | [Link](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) |
 | 3024. Type of Triangle | Easy | [Link](https://leetcode.com/problems/type-of-triangle/) |
+| 3423. Maximum Difference Between Adjacent Elements in a Circular Array | Easy | [Link](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) |
 
 -----
 
