@@ -356,6 +356,7 @@ This repository serves as a personal reference for:
 | 1. Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) |
 | 4. Median of Two Sorted Arrays | Hard | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 | 9. Palindrome Number | Easy | [Link](https://leetcode.com/problems/palindrome-number/) |
+| 21. Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 26. Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27. Remove Element | Easy | [Link](https://leetcode.com/problems/remove-element/) |
 | 33. Search in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
