@@ -303,6 +303,7 @@ This repository serves as a personal reference for:
 | 2900. Longest Unequal Adjacent Groups Subsequence I | Medium | [Link](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) |
 | 2942. Find Words Containing Character | Easy | [Link](https://leetcode.com/problems/find-words-containing-character/) |
 | 2965. Find Missing and Repeated Values | Easy | [Link](https://leetcode.com/problems/find-missing-and-repeated-values/) |
+| 3005. Count Elements With Maximum Frequency | Easy | [Link](https://leetcode.com/problems/count-elements-with-maximum-frequency/) |
 | 3024. Type of Triangle | Easy | [Link](https://leetcode.com/problems/type-of-triangle/) |
 | 3028. Ant on the Boundary | Easy | [Link](https://leetcode.com/problems/ant-on-the-boundary/) |
 | 3065. Minimum Operations to Exceed Threshold Value I | Easy | [Link](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) |
