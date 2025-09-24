@@ -376,6 +376,7 @@ This repository serves as a personal reference for:
 | 1920. Build Array from Permutation | Easy | [Link](https://leetcode.com/problems/build-array-from-permutation/) |
 | 2079. Watering Plants | Medium | [Link](https://leetcode.com/problems/watering-plants/) |
 | 2176. Count Equal and Divisible Pairs in an Array | Easy | [Link](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) |
+| 2348. Number of Zero-Filled Subarrays | Medium | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/) |
 | 2460. Apply Operations to an Array | Easy | [Link](https://leetcode.com/problems/apply-operations-to-an-array/) |
 | 2619. Array Prototype Last | Easy | [Link](https://leetcode.com/problems/array-prototype-last/) |
 | 2620. Counter | Easy | [Link](https://leetcode.com/problems/counter/) |
