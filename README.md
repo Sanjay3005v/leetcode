@@ -370,6 +370,7 @@ This repository serves as a personal reference for:
 | 152. Maximum Product Subarray | Medium | [Link](https://leetcode.com/problems/maximum-product-subarray/) |
 | 191. Number of 1 Bits | Easy | [Link](https://leetcode.com/problems/number-of-1-bits/) |
 | 198. House Robber | Medium | [Link](https://leetcode.com/problems/house-robber/) |
+| 342. Power of Four | Easy | [Link](https://leetcode.com/problems/power-of-four/) |
 | 386. Lexicographical Numbers | Medium | [Link](https://leetcode.com/problems/lexicographical-numbers/) |
 | 790. Domino and Tromino Tiling | Medium | [Link](https://leetcode.com/problems/domino-and-tromino-tiling/) |
 | 1534. Count Good Triplets | Easy | [Link](https://leetcode.com/problems/count-good-triplets/) |
