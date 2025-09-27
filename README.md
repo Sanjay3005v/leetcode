@@ -369,6 +369,7 @@ This repository serves as a personal reference for:
 | 80. Remove Duplicates from Sorted Array II | Medium | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
 | 136. Single Number | Easy | [Link](https://leetcode.com/problems/single-number/) |
 | 152. Maximum Product Subarray | Medium | [Link](https://leetcode.com/problems/maximum-product-subarray/) |
+| 171. Excel Sheet Column Number | Easy | [Link](https://leetcode.com/problems/excel-sheet-column-number/) |
 | 191. Number of 1 Bits | Easy | [Link](https://leetcode.com/problems/number-of-1-bits/) |
 | 198. House Robber | Medium | [Link](https://leetcode.com/problems/house-robber/) |
 | 342. Power of Four | Easy | [Link](https://leetcode.com/problems/power-of-four/) |
