@@ -378,6 +378,7 @@ This repository serves as a personal reference for:
 | 386. Lexicographical Numbers | Medium | [Link](https://leetcode.com/problems/lexicographical-numbers/) |
 | 790. Domino and Tromino Tiling | Medium | [Link](https://leetcode.com/problems/domino-and-tromino-tiling/) |
 | 1399. Count Largest Group | Easy | [Link](https://leetcode.com/problems/count-largest-group/) |
+| 1518. Water Bottles | Easy | [Link](https://leetcode.com/problems/water-bottles/) |
 | 1534. Count Good Triplets | Easy | [Link](https://leetcode.com/problems/count-good-triplets/) |
 | 1920. Build Array from Permutation | Easy | [Link](https://leetcode.com/problems/build-array-from-permutation/) |
 | 2079. Watering Plants | Medium | [Link](https://leetcode.com/problems/watering-plants/) |
