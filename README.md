@@ -199,6 +199,7 @@ This repository serves as a personal reference for:
 | 1491. Average Salary Excluding the Minimum and Maximum Salary | Easy | [Link](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |
 | 1492. The kth Factor of n | Medium | [Link](https://leetcode.com/problems/the-kth-factor-of-n/) |
 | 1512. Number of Good Pairs | Easy | [Link](https://leetcode.com/problems/number-of-good-pairs/) |
+| 1518. Water Bottles | Easy | [Link](https://leetcode.com/problems/water-bottles/) |
 | 1523. Count Odd Numbers in an Interval Range | Easy | [Link](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |
 | 1524. Number of Sub-arrays With Odd Sum | Medium | [Link](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) |
 | 1534. Count Good Triplets | Easy | [Link](https://leetcode.com/problems/count-good-triplets/) |
