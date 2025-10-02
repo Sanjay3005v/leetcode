@@ -376,6 +376,7 @@ This repository serves as a personal reference for:
 | 198. House Robber | Medium | [Link](https://leetcode.com/problems/house-robber/) |
 | 342. Power of Four | Easy | [Link](https://leetcode.com/problems/power-of-four/) |
 | 386. Lexicographical Numbers | Medium | [Link](https://leetcode.com/problems/lexicographical-numbers/) |
+| 509. Fibonacci Number | Easy | [Link](https://leetcode.com/problems/fibonacci-number/) |
 | 790. Domino and Tromino Tiling | Medium | [Link](https://leetcode.com/problems/domino-and-tromino-tiling/) |
 | 1399. Count Largest Group | Easy | [Link](https://leetcode.com/problems/count-largest-group/) |
 | 1518. Water Bottles | Easy | [Link](https://leetcode.com/problems/water-bottles/) |
@@ -459,7 +460,7 @@ If you'd like to add a new solution or improve an existing one:
 ## 🔗 LeetCode Profile
 
 Check out my LeetCode submissions and progress:
-👉 [https://leetcode.com/Sanjay3005v](https://leetcode.com/Sanjay3005v)
+👉 [https://leetcode.com/Sanjay3005v](https://leetcode.com/Sanjay-v)
 
 -----
 
@@ -467,7 +468,7 @@ Check out my LeetCode submissions and progress:
 
 **Sanjay V**
 📧 [sanjay3005v@gmail.com](mailto:sanjay3005v@gmail.com)
-🔗 [GitHub](https://github.com/Sanjay3005v) | [LinkedIn](https://www.linkedin.com/in/sanjayv/)
+🔗 [GitHub](https://github.com/Sanjay-v) | [LinkedIn](https://www.linkedin.com/in/sanjay-v30052005/)
 
 -----
 
