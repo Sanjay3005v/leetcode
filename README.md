@@ -406,6 +406,7 @@ This repository serves as a personal reference for:
 | 3024. Type of Triangle | Easy | [Link](https://leetcode.com/problems/type-of-triangle/) |
 | 3423. Maximum Difference Between Adjacent Elements in a Circular Array | Easy | [Link](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) |
 | 3467. Transform Array by Parity | Easy | [Link](https://leetcode.com/problems/transform-array-by-parity/) |
+| 3582. Generate Tag for Video Caption | Easy | [Link](https://leetcode.com/problems/generate-tag-for-video-caption/) |
 
 -----
 
