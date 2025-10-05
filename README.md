@@ -369,6 +369,7 @@ This repository serves as a personal reference for:
 | 70. Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) |
 | 80. Remove Duplicates from Sorted Array II | Medium | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
 | 136. Single Number | Easy | [Link](https://leetcode.com/problems/single-number/) |
+| 141. Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) |
 | 145. Binary Tree Postorder Traversal | Easy | [Link](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 152. Maximum Product Subarray | Medium | [Link](https://leetcode.com/problems/maximum-product-subarray/) |
 | 171. Excel Sheet Column Number | Easy | [Link](https://leetcode.com/problems/excel-sheet-column-number/) |
