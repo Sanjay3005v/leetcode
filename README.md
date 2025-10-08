@@ -399,6 +399,7 @@ This repository serves as a personal reference for:
 | 2666. Allow One Function Call | Easy | [Link](https://leetcode.com/problems/allow-one-function-call/) |
 | 2667. Create Hello World Function | Easy | [Link](https://leetcode.com/problems/create-hello-world-function/) |
 | 2677. Chunk Array | Easy | [Link](https://leetcode.com/problems/chunk-array/) |
+| 2683. Neighboring Bitwise XOR | Easy | [Link](https://leetcode.com/problems/neighboring-bitwise-xor/) |
 | 2703. Return Length of Arguments Passed | Easy | [Link](https://leetcode.com/problems/return-length-of-arguments-passed/) |
 | 2704. To Be Or Not To Be | Easy | [Link](https://leetcode.com/problems/to-be-or-not-to-be/) |
 | 2723. Add Two Promises | Easy | [Link](https://leetcode.com/problems/add-two-promises/) |
