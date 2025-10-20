@@ -216,6 +216,7 @@ This repository serves as a personal reference for:
 | 1752. Check if Array Is Sorted and Rotated | Easy | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 | 1768. Merge Strings Alternately | Easy | [Link](https://leetcode.com/problems/merge-strings-alternately/) |
 | 1780. Check if Number is a Sum of Powers of Three | Medium | [Link](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) |
+| 1796. Second Largest Digit in a String | Easy | [Link](https://leetcode.com/problems/second-largest-digit-in-a-string/) |
 | 1800. Maximum Ascending Subarray Sum | Easy | [Link](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |
 | 1807. Evaluate the Bracket Pairs of a String | Medium | [Link](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) |
 | 1816. Truncate Sentence | Easy | [Link](https://leetcode.com/problems/truncate-sentence/) |
